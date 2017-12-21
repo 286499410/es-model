@@ -1,0 +1,23 @@
+{
+  "name": "es-model",
+  "version": "1.0.0",
+  "description": "orm",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/286499410/es-model.git"
+  },
+  "keywords": [
+    "model",
+    "orm"
+  ],
+  "author": "Joey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/286499410/es-model/issues"
+  },
+  "homepage": "https://github.com/286499410/es-model#readme"
+}
